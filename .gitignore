@@ -6,10 +6,12 @@ __pycache__/
 .ipynb_checkpoints/
 
 # Data
-data/processed/*
-!data/processed/.gitkeep
-data/raw/*
-!data/raw/.gitkeep
+data/raw/*            
+!data/raw/.gitkeep    
+
+data/processed/*      
+!data/processed/.gitkeep  
+!data/processed/sample_*   
 
 # OS / IDE files
 .DS_Store
