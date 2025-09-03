@@ -1,0 +1,11 @@
+Country,Year,Food Category,Total Waste (Tons),Economic Loss (Million $),Avg Waste per Capita (Kg),Population (Million),Household Waste (%)
+Australia,2019,Fruits & Vegetables,19268.63,18686.68,72.69,87.59,53.64
+Indonesia,2019,Prepared Food,3916.97,4394.48,192.52,1153.99,30.61
+Germany,2022,Dairy Products,9700.16,8909.16,166.94,1006.11,48.08
+France,2023,Fruits & Vegetables,46299.69,40551.22,120.19,953.05,31.91
+France,2023,Beverages,33096.57,36980.82,104.74,1105.47,36.06
+India,2024,Fruits & Vegetables,11962.89,11196.04,136.21,1311.91,37.09
+Germany,2024,Prepared Food,45038.72,39191.25,179.27,1349.45,68.93
+China,2019,Fruits & Vegetables,12791.2,12233.28,90.8,1229.29,59.9
+UK,2019,Meat & Seafood,14795.65,14346.97,128.91,450.33,59.01
+India,2019,Grains & Cereals,12118.32,13631.17,141.75,359.26,42.42
