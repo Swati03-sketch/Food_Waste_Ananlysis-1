@@ -1,4 +1,4 @@
-#s Food Waste Analysis & Forecasting
+# Food Waste Analysis & Forecasting
 
 A data-driven project to analyze **global food wastage trends**, perform **forecasting with ARIMA/Exponential Smoothing**, and visualize insights through **Streamlit dashboards** and **Power BI**.
 
