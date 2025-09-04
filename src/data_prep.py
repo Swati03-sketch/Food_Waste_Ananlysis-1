@@ -49,7 +49,7 @@ def add_features(df: pd.DataFrame) -> pd.DataFrame:
 
 if __name__ == "__main__":
     # Load dataset
-    df = pd.read_csv("C:/Users/Sony/Documents/global_food_wastage_dataset.csv")
+    df = pd.read_csv("data/raw/global_food_wastage_dataset.csv")
     
     # Clean + feature engineering
     df_clean = basic_clean(df)
